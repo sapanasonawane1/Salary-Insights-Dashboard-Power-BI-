@@ -38,8 +38,11 @@ Bengaluru has the highest concentration of high-paying roles followed by Hyderab
 
 ▶️ How to Use
 Download Dashboard1_Job_market.pbix
+
 Open it in Power BI Desktop (free)
+
 Use the Location, Industry/Domain, and Job Category slicers to filter and explore
+
 
 📬 Contact
 
