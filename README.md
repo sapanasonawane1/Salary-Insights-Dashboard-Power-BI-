@@ -32,11 +32,16 @@ Key fields: Job Role, Job Category, Industry/Domain, Location, Experience Requir
 💡 Key Insights
 
 Education Industry offers the highest average salary, ahead of Tech industry by 2.4%.
+
 Salary rises with experience required, with the steepest jump around 12+ years.
+
 Technical accounts for the largest share of total job postings.
+
 Bengaluru has the highest concentration of high-paying roles followed by Hyderabad.
 
+
 ▶️ How to Use
+
 Download Dashboard1_Job_market.pbix
 
 Open it in Power BI Desktop (free)
