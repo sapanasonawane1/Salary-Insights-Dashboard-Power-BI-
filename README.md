@@ -23,9 +23,10 @@ Filters: Location, Industry/Domain, Job Category slicers
 Power BI Desktop, DAX, Power Query 
 
 🧮 Dataset
-Dataset Name : India_Job_Market_Dataset
+Dataset Name : India_Job_Market_Dataset     
 Size : Rows : 601
        Columns : 15
+       
 Key fields: Job Role, Job Category, Industry/Domain, Location, Experience Required, Avg Salary, Median Salary, Max Salary, Total Jobs, Total Companies
 
 💡 Key Insights
@@ -41,6 +42,5 @@ Open it in Power BI Desktop (free)
 Use the Location, Industry/Domain, and Job Category slicers to filter and explore
 
 📬 Contact
-Sapana Sonawane | sapanapune0@gmail.com
 
-(Your name | LinkedIn | Email)
+Sapana Sonawane | sapanapune0@gmail.com
